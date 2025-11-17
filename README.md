@@ -9,7 +9,7 @@ Soy Karina y estoy aprendiendo <img src="https://media4.giphy.com/media/v1.Y2lkP
 Use los comando de [git init](https://git-scm.com/docs/git-init) para inicializar localmente el repositorio.<br>
 😘 Mira unas lucesitas bonitas! 💥
 <div align="left">
-  <img src="logan-voss-put-Al318GI-unsplash.jpg" alt="Lights" width="200" height="auto">
+  <img src="assets/logan-voss-put-Al318GI-unsplash.jpg" alt="Lights" width="200" height="auto">
 </div>
 
 Let's play a bit with github! :trollface: <br>
