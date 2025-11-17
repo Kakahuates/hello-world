@@ -1,6 +1,6 @@
 # hello-world-project
 
-Es un proyecto para empezar a utilizar Git y Github
+Es un proyecto para empezar a utilizar Git y Github 😄
 
 ## Quien soy?
 
