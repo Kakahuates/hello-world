@@ -15,4 +15,4 @@ Use los comando de [git init](https://git-scm.com/docs/git-init) para inicializa
 Let's play a bit with github! :trollface: <br>
 ![gif_0_1763372436](https://github.com/user-attachments/assets/a54a1495-fde0-41b7-a1cb-420f2485084f)<br>
 
-Look a cute kitty! :smile:
+Look a cute kitty! the end
